@@ -4,7 +4,7 @@ React를 사용하여 일기장 프로젝트를 진해하였습니다. 일기 �
 RELEASE - https://emotion-diary-psi.vercel.app/
 <br>
 일기 목록 페이지
-<img src="[이미지주소.png](https://github.com/hyeokii/EmotionDiary/assets/92020565/cdbe1769-a5fc-4f55-a46d-b2de4a787c87)" width="200" height="400"/>
+<img src="https://github.com/hyeokii/EmotionDiary/assets/92020565/cdbe1769-a5fc-4f55-a46d-b2de4a787c87" width="200" height="400"/>
 ![image](https://github.com/hyeokii/EmotionDiary/assets/92020565/cdbe1769-a5fc-4f55-a46d-b2de4a787c87)
 
 일기 추가 페이지
